@@ -295,3 +295,12 @@ if os.environ.get('DJANGO_ENV') == 'production':
         "https://your-frontend.vercel.app",
         "http://localhost:3000",
     ]
+
+# 开发环境使用SQLite
+else:
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.sqlite3',
+            'NAME': BASE_DIR / 'db.sqlite3',
+        }
+    }
