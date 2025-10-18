@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { 
   Camera, Edit3, Save, X, Heart, MessageSquare, Users, FileText, 
-  Calendar, MapPin, Globe, Mail, Phone, Eye, EyeOff,
+  Calendar, MapPin, Eye, EyeOff,
   UserPlus, UserMinus, Trash2
 } from 'lucide-react';
 import { useAuthStore } from '../stores/authStore';

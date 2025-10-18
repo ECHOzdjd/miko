@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { Heart, MessageCircle, Bookmark, MoreHorizontal, Clock, Users } from 'lucide-react';
+import { Heart, MessageCircle, Bookmark, MoreHorizontal, Clock } from 'lucide-react';
 import { Post } from '../../types/post';
 import { postsApi } from '../../api/posts';
 import { useQueryClient } from 'react-query';

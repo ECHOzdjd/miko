@@ -2998,3 +2998,9 @@ Watching for file changes with StatReloader
 "GET /api/posts/posts/?ordering=-views_count HTTP/1.1" 200 6155
 "GET /api/posts/posts/?ordering=-likes_count HTTP/1.1" 200 6155
 "GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6155
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"OPTIONS /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 0
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6155

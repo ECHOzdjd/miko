@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Home, Users, Heart, MessageSquare } from 'lucide-react';
+import { Home, Heart, MessageSquare } from 'lucide-react';
 import { useAuthStore } from '../../stores/authStore';
 
 const Sidebar: React.FC = () => {

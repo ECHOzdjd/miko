@@ -251,3 +251,47 @@ LOGGING = {
         },
     },
 }
+
+# 生产环境配置
+if os.environ.get('DJANGO_ENV') == 'production':
+    DEBUG = False
+    
+    # 生产环境允许的主机
+    ALLOWED_HOSTS = [
+        'your-app-name.herokuapp.com',
+        'your-app.railway.app', 
+        'your-app.onrender.com',
+        'localhost',
+        '127.0.0.1'
+    ]
+    
+    # 生产环境数据库配置（使用环境变量）
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.postgresql',
+            'NAME': os.environ.get('DB_NAME', 'miko_db'),
+            'USER': os.environ.get('DB_USER', 'postgres'),
+            'PASSWORD': os.environ.get('DB_PASSWORD', ''),
+            'HOST': os.environ.get('DB_HOST', 'localhost'),
+            'PORT': os.environ.get('DB_PORT', '5432'),
+        }
+    }
+    
+    # 静态文件配置
+    STATIC_URL = '/static/'
+    STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+    
+    # 媒体文件配置
+    MEDIA_URL = '/media/'
+    MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+    
+    # 安全设置
+    SECURE_BROWSER_XSS_FILTER = True
+    SECURE_CONTENT_TYPE_NOSNIFF = True
+    X_FRAME_OPTIONS = 'DENY'
+    
+    # CORS设置
+    CORS_ALLOWED_ORIGINS = [
+        "https://your-frontend.vercel.app",
+        "http://localhost:3000",
+    ]

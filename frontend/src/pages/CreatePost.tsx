@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useForm } from 'react-hook-form';
-import { Image, X, Send, Save, Globe, Users, Lock } from 'lucide-react';
+import { Image, X, Send, Save, Globe, Lock } from 'lucide-react';
 import { useAuthStore } from '../stores/authStore';
 import { postsApi } from '../api/posts';
 import toast from 'react-hot-toast';

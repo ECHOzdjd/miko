@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { useQuery, useMutation, useQueryClient } from 'react-query';
 import { Send, ArrowLeft, MoreVertical } from 'lucide-react';
-import { messagesApi, Conversation, Message } from '../api/messages';
+import { messagesApi, Message } from '../api/messages';
 import { useAuthStore } from '../stores/authStore';
 import toast from 'react-hot-toast';
 
@@ -65,7 +65,7 @@ const Chat: React.FC = () => {
     if (conversationId && conversation && conversation.unread_count > 0) {
       markReadMutation.mutate();
     }
-  }, [conversationId, conversation?.unread_count]);
+  }, [conversationId, conversation, markReadMutation]);
 
   const handleSendMessage = (e: React.FormEvent) => {
     e.preventDefault();
