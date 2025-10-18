@@ -1,0 +1,3000 @@
+Watching for file changes with StatReloader
+"GET /admin HTTP/1.1" 301 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4192
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694
+"GET /static/admin/css/login.css HTTP/1.1" 200 958
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 18533
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/css/base.css HTTP/1.1" 200 21207
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2582
+Not Found: /api
+"GET /api HTTP/1.1" 404 2558
+Not Found: /api
+"GET /api HTTP/1.1" 404 2558
+Not Found: /api
+"GET /api HTTP/1.1" 404 2558
+Not Found: /api
+"GET /api HTTP/1.1" 404 2558
+Not Found: /
+"GET / HTTP/1.1" 404 2531
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 8799
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+Not Found: /
+"GET / HTTP/1.1" 404 2531
+Not Found: /api/posts/
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 404 2600
+Not Found: /api/posts/
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 404 2600
+Not Found: /api/posts/
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 404 2600
+Not Found: /api/posts/
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 404 2600
+Not Found: /api/posts/
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 404 2600
+Not Found: /api/posts/
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 404 2600
+Not Found: /api/posts/
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 404 2600
+Not Found: /api/posts/
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 404 2600
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-likes_count HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-likes_count HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-views_count HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-views_count HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /admin/ HTTP/1.1" 200 8799
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /admin/ HTTP/1.1" 200 8799
+"GET /admin/ HTTP/1.1" 200 8799
+"GET /admin/ HTTP/1.1" 200 8799
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-likes_count HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"OPTIONS /api/users/register/ HTTP/1.1" 200 0
+Bad Request: /api/users/register/
+"POST /api/users/register/ HTTP/1.1" 400 134
+Bad Request: /api/users/register/
+"POST /api/users/register/ HTTP/1.1" 400 134
+Bad Request: /api/users/register/
+"POST /api/users/register/ HTTP/1.1" 400 134
+Bad Request: /api/users/register/
+"POST /api/users/register/ HTTP/1.1" 400 134
+"GET /admin/ HTTP/1.1" 200 8799
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /admin/account/emailaddress/ HTTP/1.1" 200 10580
+"GET /admin/jsi18n/ HTTP/1.1" 200 8560
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+"GET /static/admin/js/core.js HTTP/1.1" 200 5682
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6566
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+Watching for file changes with StatReloader
+D:\miko\backend\config\settings.py changed, reloading.
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+D:\miko\backend\config\settings.py changed, reloading.
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+Bad Request: /api/users/register/
+"POST /api/users/register/ HTTP/1.1" 400 134
+Bad Request: /api/users/register/
+"POST /api/users/register/ HTTP/1.1" 400 134
+Bad Request: /api/users/register/
+"POST /api/users/register/ HTTP/1.1" 400 134
+"OPTIONS /api/users/register/ HTTP/1.1" 200 0
+Bad Request: /api/users/register/
+"POST /api/users/register/ HTTP/1.1" 400 134
+"GET /admin/account/emailaddress/ HTTP/1.1" 200 9313
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 8560
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6566
+"GET /static/admin/js/core.js HTTP/1.1" 200 5682
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+"GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+Internal Server Error: /api/users/register/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\users\views.py", line 24, in create
+    token, created = Token.objects.get_or_create(user=user)
+                     ^^^^^^^^^^^^^
+AttributeError: type object 'Token' has no attribute 'objects'
+"POST /api/users/register/ HTTP/1.1" 500 102748
+D:\miko\backend\config\settings.py changed, reloading.
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /api/users/register/ HTTP/1.1" 201 555
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+Watching for file changes with StatReloader
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+Bad Request: /api/users/register/
+"POST /api/users/register/ HTTP/1.1" 400 134
+"POST /api/users/register/ HTTP/1.1" 201 555
+D:\miko\backend\config\settings.py changed, reloading.
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"OPTIONS /api/users/register/ HTTP/1.1" 200 0
+Bad Request: /api/users/register/
+"POST /api/users/register/ HTTP/1.1" 400 134
+Bad Request: /api/users/register/
+"POST /api/users/register/ HTTP/1.1" 400 71
+"POST /api/users/register/ HTTP/1.1" 201 554
+"OPTIONS /api/posts/?ordering=-created_at HTTP/1.1" 200 0
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"OPTIONS /api/users/logout/ HTTP/1.1" 200 0
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"POST /api/users/logout/ HTTP/1.1" 200 26
+"OPTIONS /api/users/register/ HTTP/1.1" 200 0
+Bad Request: /api/users/register/
+"POST /api/users/register/ HTTP/1.1" 400 237
+Bad Request: /api/users/register/
+"POST /api/users/register/ HTTP/1.1" 400 237
+"OPTIONS /api/users/login/ HTTP/1.1" 200 0
+"POST /api/users/login/ HTTP/1.1" 200 554
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+D:\miko\backend\apps\users\serializers.py changed, reloading.
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+D:\miko\backend\apps\users\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+D:\miko\backend\config\settings.py changed, reloading.
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+D:\miko\backend\apps\users\serializers.py changed, reloading.
+D:\miko\backend\apps\users\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 7802
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /admin/account/emailaddress/ HTTP/1.1" 200 9872
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /static/admin/img/search.svg HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 8560
+"GET /static/admin/js/filters.js HTTP/1.1" 304 0
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+"GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 10205
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+"GET /admin/auth/group/ HTTP/1.1" 200 9076
+"GET /admin/jsi18n/ HTTP/1.1" 200 8560
+"GET /admin/account/emailaddress/ HTTP/1.1" 200 9872
+"GET /admin/jsi18n/ HTTP/1.1" 200 8560
+Watching for file changes with StatReloader
+Bad Request: /api/users/register/
+"POST /api/users/register/ HTTP/1.1" 400 71
+Bad Request: /api/users/register/
+"POST /api/users/register/ HTTP/1.1" 400 44
+"POST /api/users/logout/ HTTP/1.1" 200 26
+D:\miko\backend\apps\users\serializers.py changed, reloading.
+D:\miko\backend\apps\users\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Bad Request: /api/users/register/
+"POST /api/users/register/ HTTP/1.1" 400 288
+Bad Request: /api/users/register/
+"POST /api/users/register/ HTTP/1.1" 400 288
+Watching for file changes with StatReloader
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+Bad Request: /api/users/register/
+"POST /api/users/register/ HTTP/1.1" 400 288
+Bad Request: /api/users/register/
+"POST /api/users/register/ HTTP/1.1" 400 185
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+D:\miko\backend\config\settings.py changed, reloading.
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"OPTIONS /api/users/register/ HTTP/1.1" 200 0
+Bad Request: /api/users/register/
+"POST /api/users/register/ HTTP/1.1" 400 288
+Bad Request: /api/users/register/
+"POST /api/users/register/ HTTP/1.1" 400 235
+Bad Request: /api/users/register/
+"POST /api/users/register/ HTTP/1.1" 400 185
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"POST /api/users/login/ HTTP/1.1" 200 554
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"OPTIONS /api/posts/?ordering=-likes_count HTTP/1.1" 200 0
+"GET /api/posts/?ordering=-likes_count HTTP/1.1" 200 101
+"OPTIONS /api/posts/?ordering=-views_count HTTP/1.1" 200 0
+"GET /api/posts/?ordering=-views_count HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+Not Found: /api/placeholder/40/40
+"GET /api/placeholder/40/40 HTTP/1.1" 404 3165
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-likes_count HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-views_count HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"OPTIONS /api/users/5/posts/?page=1 HTTP/1.1" 200 0
+"OPTIONS /api/users/5/ HTTP/1.1" 200 0
+"GET /api/users/5/ HTTP/1.1" 200 494
+Internal Server Error: /api/users/5/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 42, in list
+    serializer = self.get_serializer(page, many=True)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'UserPostsView' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 500 112790
+"GET /api/users/5/ HTTP/1.1" 200 494
+"GET /api/users/5/ HTTP/1.1" 200 494
+Watching for file changes with StatReloader
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/users/5/ HTTP/1.1" 200 494
+Internal Server Error: /api/users/5/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 42, in list
+    serializer = self.get_serializer(page, many=True)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'UserPostsView' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 500 112790
+Internal Server Error: /api/users/5/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 42, in list
+    serializer = self.get_serializer(page, many=True)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'UserPostsView' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 500 112790
+"OPTIONS /api/users/me/ HTTP/1.1" 200 0
+"PATCH /api/users/me/ HTTP/1.1" 200 500
+"GET /api/users/5/ HTTP/1.1" 200 500
+"PATCH /api/users/me/ HTTP/1.1" 200 500
+"GET /api/users/5/ HTTP/1.1" 200 500
+D:\miko\backend\apps\users\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/users/5/ HTTP/1.1" 200 500
+Internal Server Error: /api/users/5/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 42, in list
+    serializer = self.get_serializer(page, many=True)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'UserPostsView' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 500 112790
+Internal Server Error: /api/users/5/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 42, in list
+    serializer = self.get_serializer(page, many=True)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'UserPostsView' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 500 112790
+D:\miko\backend\apps\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\users\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/users/5/ HTTP/1.1" 200 549
+Internal Server Error: /api/users/5/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 42, in list
+    serializer = self.get_serializer(page, many=True)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'UserPostsView' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 500 112790
+Internal Server Error: /api/users/5/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 42, in list
+    serializer = self.get_serializer(page, many=True)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'UserPostsView' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 500 112790
+"GET /api/users/5/ HTTP/1.1" 200 549
+Internal Server Error: /api/users/5/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 42, in list
+    serializer = self.get_serializer(page, many=True)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'UserPostsView' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 500 112790
+Internal Server Error: /api/users/5/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 42, in list
+    serializer = self.get_serializer(page, many=True)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'UserPostsView' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 500 112790
+"PATCH /api/users/me/ HTTP/1.1" 200 514
+"GET /api/users/5/ HTTP/1.1" 200 514
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/users/5/ HTTP/1.1" 200 514
+Internal Server Error: /api/users/5/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 42, in list
+    serializer = self.get_serializer(page, many=True)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'UserPostsView' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 500 112790
+Internal Server Error: /api/users/5/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 42, in list
+    serializer = self.get_serializer(page, many=True)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'UserPostsView' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 500 112790
+"OPTIONS /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 0
+Not Found: /api/users/5/liked-posts/
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 404 8798
+Internal Server Error: /api/users/5/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 42, in list
+    serializer = self.get_serializer(page, many=True)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'UserPostsView' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 500 112790
+Not Found: /api/users/5/liked-posts/
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 404 8798
+Internal Server Error: /api/users/5/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 42, in list
+    serializer = self.get_serializer(page, many=True)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'UserPostsView' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 500 112790
+"GET /admin/ HTTP/1.1" 200 7802
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /admin/taggit/tag/ HTTP/1.1" 200 9074
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 8560
+"GET /static/admin/img/search.svg HTTP/1.1" 304 0
+"GET /static/admin/js/filters.js HTTP/1.1" 304 0
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+"GET /admin/account/emailaddress/ HTTP/1.1" 200 9872
+"GET /admin/jsi18n/ HTTP/1.1" 200 8560
+"GET /admin/sites/site/ HTTP/1.1" 200 10661
+"GET /admin/jsi18n/ HTTP/1.1" 200 8560
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2972
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3023
+"OPTIONS /api/posts/?ordering=-created_at HTTP/1.1" 200 0
+"OPTIONS /api/posts/?ordering=-created_at HTTP/1.1" 200 0
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"OPTIONS /api/users/5/posts/?page=1 HTTP/1.1" 200 0
+"OPTIONS /api/users/5/ HTTP/1.1" 200 0
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 475
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+Not Found: /api/placeholder/40/40
+"GET /api/placeholder/40/40 HTTP/1.1" 404 3053
+Not Found: /api/placeholder/40/40
+"GET /api/placeholder/40/40 HTTP/1.1" 404 3053
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+Not Found: /api/placeholder/40/40
+"GET /api/placeholder/40/40 HTTP/1.1" 404 3053
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"OPTIONS /api/posts/?ordering=-likes_count HTTP/1.1" 200 0
+"GET /api/posts/?ordering=-likes_count HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-likes_count HTTP/1.1" 200 101
+"OPTIONS /api/posts/?ordering=-views_count HTTP/1.1" 200 0
+"GET /api/posts/?ordering=-views_count HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 475
+"OPTIONS /api/users/me/ HTTP/1.1" 200 0
+"PATCH /api/users/me/ HTTP/1.1" 200 493
+"GET /api/users/5/ HTTP/1.1" 200 493
+"PATCH /api/users/me/ HTTP/1.1" 200 501
+"GET /api/users/5/ HTTP/1.1" 200 501
+D:\miko\backend\apps\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\users\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 488
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 488
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 488
+"GET /api/users/5/ HTTP/1.1" 200 488
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 488
+"GET /api/users/5/ HTTP/1.1" 200 488
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+D:\miko\backend\apps\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 488
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 488
+D:\miko\backend\apps\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\users\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\users\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\users\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 509
+"GET /media/avatars/Screenshot_2025-07-07_105435_YyJ8COb.jpg HTTP/1.1" 200 7027
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 509
+Forbidden: /api/users/me/
+"GET /api/users/me/ HTTP/1.1" 403 34
+D:\miko\backend\apps\users\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 530
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"PATCH /api/users/me/ HTTP/1.1" 200 522
+"GET /api/users/5/ HTTP/1.1" 200 522
+"GET /media/avatars/Screenshot_2025-06-26_165108.jpg HTTP/1.1" 200 11536
+"PATCH /api/users/me/ HTTP/1.1" 200 540
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"OPTIONS /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 0
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"OPTIONS /api/users/5/followers/?page=1 HTTP/1.1" 200 0
+"GET /api/users/5/followers/?page=1 HTTP/1.1" 200 52
+"OPTIONS /api/users/5/following/?page=1 HTTP/1.1" 200 0
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 52
+Not Found: /api/placeholder/40/40
+"GET /api/placeholder/40/40 HTTP/1.1" 404 3053
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-likes_count HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-views_count HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-likes_count HTTP/1.1" 200 101
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"GET /api/posts/ HTTP/1.1" 200 101
+"GET /api/posts/posts/ HTTP/1.1" 200 5592
+"GET /api/posts/?ordering=-created_at HTTP/1.1" 200 101
+"OPTIONS /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 0
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 5592
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 5592
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 5592
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 5592
+Not Found: /api/placeholder/40/40
+"GET /api/placeholder/40/40 HTTP/1.1" 404 3053
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 5592
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 5592
+D:\miko\backend\apps\posts\models.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 5391
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 5391
+"GET /api/posts/posts/ HTTP/1.1" 200 5391
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 5391
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 5391
+"GET /api/posts/posts/ HTTP/1.1" 200 52
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 52
+"GET /media/avatars/Screenshot_2025-06-26_165108.jpg HTTP/1.1" 304 0
+Not Found: /api/placeholder/40/40
+"GET /api/placeholder/40/40 HTTP/1.1" 404 3053
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 52
+"OPTIONS /api/posts/posts/ HTTP/1.1" 200 0
+"POST /api/posts/posts/ HTTP/1.1" 201 962
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 1014
+Bad Request: /api/posts/posts/
+"POST /api/posts/posts/ HTTP/1.1" 400 51
+Bad Request: /api/posts/posts/
+"POST /api/posts/posts/ HTTP/1.1" 400 51
+Bad Request: /api/posts/posts/
+"POST /api/posts/posts/ HTTP/1.1" 400 51
+Bad Request: /api/posts/posts/
+"POST /api/posts/posts/ HTTP/1.1" 400 51
+Bad Request: /api/posts/posts/
+"POST /api/posts/posts/ HTTP/1.1" 400 51
+Bad Request: /api/posts/posts/
+"POST /api/posts/posts/ HTTP/1.1" 400 51
+Bad Request: /api/posts/posts/
+"POST /api/posts/posts/ HTTP/1.1" 400 51
+"POST /api/posts/posts/ HTTP/1.1" 201 962
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 1977
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/posts/posts/ HTTP/1.1" 200 1977
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /media/avatars/Screenshot_2025-06-26_165108.jpg HTTP/1.1" 304 0
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 1977
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 1977
+Bad Request: /api/posts/posts/
+"POST /api/posts/posts/ HTTP/1.1" 400 51
+D:\miko\backend\apps\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/posts/posts/ HTTP/1.1" 200 1953
+Forbidden: /api/posts/posts/
+"POST /api/posts/posts/ HTTP/1.1" 403 43
+D:\miko\backend\apps\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /media/avatars/Screenshot_2025-06-26_165108.jpg HTTP/1.1" 304 0
+Bad Request: /api/posts/posts/
+"POST /api/posts/posts/ HTTP/1.1" 400 90
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/posts/posts/
+"POST /api/posts/posts/ HTTP/1.1" 400 99
+Bad Request: /api/posts/posts/
+"POST /api/posts/posts/ HTTP/1.1" 400 99
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/posts/posts/ HTTP/1.1" 200 1977
+D:\miko\backend\apps\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/posts/posts/ HTTP/1.1" 201 1179
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 3157
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 3157
+"GET /api/posts/posts/7/ HTTP/1.1" 200 962
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/posts/posts/8/ HTTP/1.1" 200 1200
+"GET /api/posts/posts/8/ HTTP/1.1" 200 1200
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/posts/posts/ HTTP/1.1" 201 1216
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 4395
+"GET /media/posts/images/Screenshot_2025-07-07_105435.png HTTP/1.1" 200 51710
+"GET /media/posts/images/Screenshot_2025-07-07_105435_72jvvYS.png HTTP/1.1" 200 51710
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 4395
+"POST /api/posts/posts/ HTTP/1.1" 201 1217
+"GET /media/posts/images/Screenshot_2025-07-07_105435.png HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-07-07_105435_72jvvYS.png HTTP/1.1" 304 0
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 5613
+"GET /media/posts/images/Screenshot_2025-07-07_105435_cpSq0y3.png HTTP/1.1" 200 51710
+"POST /api/posts/posts/ HTTP/1.1" 201 1463
+"GET /media/posts/images/Screenshot_2025-07-07_105435_cpSq0y3.png HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-07-07_105435_72jvvYS.png HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-07-07_105435.png HTTP/1.1" 304 0
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 7077
+"GET /media/posts/images/Screenshot_2025-07-07_105435_JKL0z6z.png HTTP/1.1" 200 51710
+"GET /media/posts/images/736d5313fc78efe8a35cbcca456a993.jpg HTTP/1.1" 200 583041
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 7077
+"POST /api/posts/posts/ HTTP/1.1" 201 3210
+"GET /media/posts/images/Screenshot_2025-07-07_105435_JKL0z6z.png HTTP/1.1" 304 0
+"GET /media/posts/images/736d5313fc78efe8a35cbcca456a993.jpg HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-07-07_105435_cpSq0y3.png HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-07-07_105435_72jvvYS.png HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-07-07_105435.png HTTP/1.1" 304 0
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 10288
+"GET /media/posts/images/Screenshot_2025-07-07_105435_Cx5EV7C.png HTTP/1.1" 200 51710
+"GET /media/posts/images/736d5313fc78efe8a35cbcca456a993_OhjlJkR.jpg HTTP/1.1" 200 583041
+"GET /media/posts/images/Screenshot_2025-03-31_125431.png HTTP/1.1" 200 350081
+"GET /media/posts/images/Screenshot_2025-06-18_160020.png HTTP/1.1" 200 979038
+"GET /media/posts/images/Screenshot_2025-04-21_133954.png HTTP/1.1" 200 5091
+"GET /media/posts/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250324181307.jpg HTTP/1.1" 200 5125698
+"OPTIONS /api/posts/posts/12/ HTTP/1.1" 200 0
+"GET /api/posts/posts/12/ HTTP/1.1" 200 3210
+"GET /media/posts/images/Screenshot_2025-04-25_130030.png HTTP/1.1" 200 426587
+"GET /media/posts/images/Screenshot_2025-06-26_165108.png HTTP/1.1" 200 1450473
+"GET /media/posts/images/Screenshot_2025-06-29_153740.png HTTP/1.1" 200 1809622
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 10288
+"GET /media/posts/images/Screenshot_2025-06-29_153740.png HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-04-25_130030.png HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-06-26_165108.png HTTP/1.1" 304 0
+"GET /api/posts/posts/12/ HTTP/1.1" 200 3210
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 10288
+"GET /media/posts/images/Screenshot_2025-06-29_153740.png HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-06-26_165108.png HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-04-25_130030.png HTTP/1.1" 304 0
+"GET /api/posts/posts/12/ HTTP/1.1" 200 3210
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 10288
+"GET /media/posts/images/Screenshot_2025-06-29_153740.png HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-06-26_165108.png HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-04-25_130030.png HTTP/1.1" 304 0
+"GET /api/posts/posts/12/ HTTP/1.1" 200 3210
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 10288
+"GET /media/posts/images/Screenshot_2025-07-07_105435_Cx5EV7C.png HTTP/1.1" 304 0
+"GET /media/posts/images/736d5313fc78efe8a35cbcca456a993_OhjlJkR.jpg HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-06-18_160020.png HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-04-21_133954.png HTTP/1.1" 304 0
+"GET /media/posts/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250324181307.jpg HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-03-31_125431.png HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-07-07_105435_JKL0z6z.png HTTP/1.1" 304 0
+"GET /media/posts/images/736d5313fc78efe8a35cbcca456a993.jpg HTTP/1.1" 304 0
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 10288
+"POST /api/posts/posts/ HTTP/1.1" 201 1254
+"GET /media/posts/images/Screenshot_2025-07-07_105435_Cx5EV7C.png HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-03-31_125431.png HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-04-21_133954.png HTTP/1.1" 304 0
+"GET /media/posts/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250324181307.jpg HTTP/1.1" 304 0
+"GET /media/posts/images/736d5313fc78efe8a35cbcca456a993_OhjlJkR.jpg HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-06-18_160020.png HTTP/1.1" 304 0
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 11543
+"GET /media/posts/images/Screenshot_2025-07-07_105435_cpSq0y3.png HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-07-07_105435_72jvvYS.png HTTP/1.1" 304 0
+"OPTIONS /api/posts/posts/13/ HTTP/1.1" 200 0
+"GET /api/posts/posts/13/ HTTP/1.1" 200 1254
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 11543
+"GET /api/posts/posts/13/ HTTP/1.1" 200 1254
+"GET /media/posts/images/Screenshot_2025-07-07_105435_Cx5EV7C.png HTTP/1.1" 304 0
+"GET /media/posts/images/736d5313fc78efe8a35cbcca456a993_OhjlJkR.jpg HTTP/1.1" 304 0
+"GET /media/posts/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250324181307.jpg HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-04-21_133954.png HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-03-31_125431.png HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-06-18_160020.png HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-07-07_105435_JKL0z6z.png HTTP/1.1" 304 0
+"GET /media/posts/images/736d5313fc78efe8a35cbcca456a993.jpg HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-07-07_105435.png HTTP/1.1" 304 0
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 11543
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 11543
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 11543
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 11543
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/followers/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 11543
+"GET /media/posts/images/Screenshot_2025-07-07_105435_Cx5EV7C.png HTTP/1.1" 304 0
+"GET /media/posts/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250324181307.jpg HTTP/1.1" 304 0
+"GET /media/posts/images/736d5313fc78efe8a35cbcca456a993_OhjlJkR.jpg HTTP/1.1" 304 0
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /media/posts/images/Screenshot_2025-07-07_105435_JKL0z6z.png HTTP/1.1" 304 0
+"GET /media/posts/images/736d5313fc78efe8a35cbcca456a993.jpg HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-07-07_105435_cpSq0y3.png HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-07-07_105435_72jvvYS.png HTTP/1.1" 304 0
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 11543
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 11543
+"GET /api/posts/posts/13/ HTTP/1.1" 200 1254
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 11543
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 52
+"GET /media/posts/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250324181307.jpg HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-07-07_105435_Cx5EV7C.png HTTP/1.1" 304 0
+"GET /media/posts/images/736d5313fc78efe8a35cbcca456a993_OhjlJkR.jpg HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-07-07_105435.png HTTP/1.1" 304 0
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 11543
+D:\miko\backend\apps\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/posts/posts/13/ HTTP/1.1" 200 1254
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 11543
+"GET /media/posts/images/Screenshot_2025-07-07_105435_Cx5EV7C.png HTTP/1.1" 304 0
+"GET /media/posts/images/736d5313fc78efe8a35cbcca456a993_OhjlJkR.jpg HTTP/1.1" 304 0
+"GET /media/posts/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250324181307.jpg HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-07-07_105435_JKL0z6z.png HTTP/1.1" 304 0
+"GET /media/posts/images/736d5313fc78efe8a35cbcca456a993.jpg HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-07-07_105435_cpSq0y3.png HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-07-07_105435_72jvvYS.png HTTP/1.1" 304 0
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /media/posts/images/Screenshot_2025-04-21_133954.png HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-03-31_125431.png HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-06-18_160020.png HTTP/1.1" 304 0
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 11543
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 11543
+D:\miko\backend\apps\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /media/avatars/Screenshot_2025-06-26_165108.jpg HTTP/1.1" 304 0
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 11543
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /media/posts/images/Screenshot_2025-07-07_105435_Cx5EV7C.png HTTP/1.1" 304 0
+"GET /media/posts/images/736d5313fc78efe8a35cbcca456a993_OhjlJkR.jpg HTTP/1.1" 304 0
+"GET /media/posts/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250324181307.jpg HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-07-07_105435.png HTTP/1.1" 304 0
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 11543
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 11543
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 11543
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 11543
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 11543
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 11543
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 11543
+"GET /media/posts/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250324181307.jpg HTTP/1.1" 304 0
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /media/posts/images/Screenshot_2025-07-07_105435_Cx5EV7C.png HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-07-07_105435_JKL0z6z.png HTTP/1.1" 304 0
+"GET /media/posts/images/736d5313fc78efe8a35cbcca456a993.jpg HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-07-07_105435_cpSq0y3.png HTTP/1.1" 304 0
+"GET /media/posts/images/736d5313fc78efe8a35cbcca456a993_OhjlJkR.jpg HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-07-07_105435_72jvvYS.png HTTP/1.1" 304 0
+"GET /media/posts/images/Screenshot_2025-07-07_105435.png HTTP/1.1" 304 0
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 11543
+"DELETE /api/posts/posts/13/ HTTP/1.1" 204 0
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 10288
+"DELETE /api/posts/posts/12/ HTTP/1.1" 204 0
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 7077
+"OPTIONS /api/posts/posts/11/ HTTP/1.1" 200 0
+"DELETE /api/posts/posts/11/ HTTP/1.1" 204 0
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 5613
+"OPTIONS /api/posts/posts/10/ HTTP/1.1" 200 0
+"DELETE /api/posts/posts/10/ HTTP/1.1" 204 0
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 4395
+"OPTIONS /api/posts/posts/9/ HTTP/1.1" 200 0
+"DELETE /api/posts/posts/9/ HTTP/1.1" 204 0
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 3178
+"OPTIONS /api/posts/posts/8/ HTTP/1.1" 200 0
+"DELETE /api/posts/posts/8/ HTTP/1.1" 204 0
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 1977
+"OPTIONS /api/posts/posts/7/ HTTP/1.1" 200 0
+"DELETE /api/posts/posts/7/ HTTP/1.1" 204 0
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 1014
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 1014
+"OPTIONS /api/posts/posts/6/ HTTP/1.1" 200 0
+"DELETE /api/posts/posts/6/ HTTP/1.1" 204 0
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 52
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/5/ HTTP/1.1" 200 540
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/followers/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"PATCH /api/users/me/ HTTP/1.1" 200 548
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /media/avatars/Screenshot_2025-07-07_105435_MI4ZQz3.jpg HTTP/1.1" 200 7027
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 52
+Not Found: /api/placeholder/40/40
+"GET /api/placeholder/40/40 HTTP/1.1" 404 3053
+Not Found: /api/placeholder/40/40
+"GET /api/placeholder/40/40 HTTP/1.1" 404 3053
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 52
+Not Found: /api/placeholder/40/40
+"GET /api/placeholder/40/40 HTTP/1.1" 404 3053
+"GET /media/avatars/Screenshot_2025-07-07_105435_MI4ZQz3.jpg HTTP/1.1" 304 0
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 52
+"GET /media/avatars/Screenshot_2025-07-07_105435_MI4ZQz3.jpg HTTP/1.1" 304 0
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 52
+Not Found: /api/placeholder/40/40
+"GET /api/placeholder/40/40 HTTP/1.1" 404 3053
+"GET /media/avatars/Screenshot_2025-07-07_105435_MI4ZQz3.jpg HTTP/1.1" 304 0
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /media/avatars/Screenshot_2025-07-07_105435_MI4ZQz3.jpg HTTP/1.1" 304 0
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 52
+"OPTIONS /api/users/logout/ HTTP/1.1" 200 0
+"POST /api/users/logout/ HTTP/1.1" 200 26
+"OPTIONS /api/users/register/ HTTP/1.1" 200 0
+"POST /api/users/register/ HTTP/1.1" 201 574
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 52
+"POST /api/posts/posts/ HTTP/1.1" 201 937
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 989
+Forbidden: /api/posts/posts/
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 403 34
+Forbidden: /api/posts/posts/
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 403 34
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 989
+"OPTIONS /api/users/6/ HTTP/1.1" 200 0
+"OPTIONS /api/users/6/posts/?page=1 HTTP/1.1" 200 0
+"GET /api/users/6/ HTTP/1.1" 200 514
+"GET /api/users/6/posts/?page=1 HTTP/1.1" 200 989
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"OPTIONS /api/users/6/liked-posts/?page=1 HTTP/1.1" 200 0
+"GET /api/users/6/liked-posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/6/posts/?page=1 HTTP/1.1" 200 989
+"POST /api/users/logout/ HTTP/1.1" 200 26
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 989
+"OPTIONS /api/users/login/ HTTP/1.1" 200 0
+"POST /api/users/login/ HTTP/1.1" 200 608
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 989
+"GET /media/avatars/Screenshot_2025-07-07_105435_MI4ZQz3.jpg HTTP/1.1" 304 0
+"OPTIONS /api/posts/posts/14/ HTTP/1.1" 200 0
+"GET /api/posts/posts/14/ HTTP/1.1" 200 937
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 989
+Forbidden: /api/posts/posts/
+"POST /api/posts/posts/ HTTP/1.1" 403 34
+Forbidden: /api/posts/posts/
+"POST /api/posts/posts/ HTTP/1.1" 403 34
+"GET /media/avatars/Screenshot_2025-07-07_105435_MI4ZQz3.jpg HTTP/1.1" 304 0
+"GET /api/posts/posts/ HTTP/1.1" 200 989
+"GET /api/posts/posts/ HTTP/1.1" 200 6163
+"GET /media/avatars/Screenshot_2025-07-07_105435_MI4ZQz3.jpg HTTP/1.1" 304 0
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+Not Found: /api/placeholder/40/40
+"GET /api/placeholder/40/40 HTTP/1.1" 404 3053
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+Not Found: /api/placeholder/40/40
+"GET /api/placeholder/40/40 HTTP/1.1" 404 3053
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+Not Found: /api/placeholder/40/40
+"GET /api/placeholder/40/40 HTTP/1.1" 404 3053
+Not Found: /api/placeholder/40/40
+"GET /api/placeholder/40/40 HTTP/1.1" 404 3053
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+Not Found: /api/placeholder/40/40
+"GET /api/placeholder/40/40 HTTP/1.1" 404 3053
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+Not Found: /api/placeholder/40/40
+"GET /api/placeholder/40/40 HTTP/1.1" 404 3053
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+Not Found: /api/placeholder/40/40
+"GET /api/placeholder/40/40 HTTP/1.1" 404 3053
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+Not Found: /api/placeholder/40/40
+"GET /api/placeholder/40/40 HTTP/1.1" 404 3053
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+Not Found: /api/placeholder/40/40
+"GET /api/placeholder/40/40 HTTP/1.1" 404 3053
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+Not Found: /api/placeholder/40/40
+"GET /api/placeholder/40/40 HTTP/1.1" 404 3053
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+"GET /media/avatars/Screenshot_2025-07-07_105435_MI4ZQz3.jpg HTTP/1.1" 304 0
+"OPTIONS /api/posts/posts/19/ HTTP/1.1" 200 0
+"GET /api/posts/posts/19/ HTTP/1.1" 200 1035
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+"GET /api/posts/posts/19/ HTTP/1.1" 200 1035
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+"GET /api/posts/posts/19/ HTTP/1.1" 200 1035
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+D:\miko\backend\apps\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/posts/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 768, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 686, in to_representation
+    return [
+           ^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 37, in to_representation
+    data = super().to_representation(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 522, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\fields.py", line 1838, in to_representation
+    return method(value)
+           ^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 52, in get_is_liked
+    return Like.objects.filter(
+           ^^^^
+NameError: name 'Like' is not defined
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 500 177043
+D:\miko\backend\apps\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/posts/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 768, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 686, in to_representation
+    return [
+           ^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 37, in to_representation
+    data = super().to_representation(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 522, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\fields.py", line 1838, in to_representation
+    return method(value)
+           ^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 52, in get_is_liked
+    return Like.objects.filter(
+           ^^^^
+NameError: name 'Like' is not defined
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 500 177043
+Internal Server Error: /api/posts/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 768, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 686, in to_representation
+    return [
+           ^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 37, in to_representation
+    data = super().to_representation(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 522, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\fields.py", line 1838, in to_representation
+    return method(value)
+           ^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 52, in get_is_liked
+    return Like.objects.filter(
+           ^^^^
+NameError: name 'Like' is not defined
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 500 177043
+"GET /media/avatars/Screenshot_2025-07-07_105435_MI4ZQz3.jpg HTTP/1.1" 304 0
+Internal Server Error: /api/posts/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 768, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 686, in to_representation
+    return [
+           ^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 37, in to_representation
+    data = super().to_representation(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 522, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\fields.py", line 1838, in to_representation
+    return method(value)
+           ^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 52, in get_is_liked
+    return Like.objects.filter(
+           ^^^^
+NameError: name 'Like' is not defined
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 500 177043
+Internal Server Error: /api/posts/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 768, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 686, in to_representation
+    return [
+           ^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 37, in to_representation
+    data = super().to_representation(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 522, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\fields.py", line 1838, in to_representation
+    return method(value)
+           ^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 52, in get_is_liked
+    return Like.objects.filter(
+           ^^^^
+NameError: name 'Like' is not defined
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 500 177043
+Internal Server Error: /api/posts/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 768, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 686, in to_representation
+    return [
+           ^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 37, in to_representation
+    data = super().to_representation(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 522, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\fields.py", line 1838, in to_representation
+    return method(value)
+           ^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 52, in get_is_liked
+    return Like.objects.filter(
+           ^^^^
+NameError: name 'Like' is not defined
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 500 177043
+"GET /media/avatars/Screenshot_2025-07-07_105435_MI4ZQz3.jpg HTTP/1.1" 304 0
+Internal Server Error: /api/posts/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 768, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 686, in to_representation
+    return [
+           ^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 37, in to_representation
+    data = super().to_representation(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 522, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\fields.py", line 1838, in to_representation
+    return method(value)
+           ^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 52, in get_is_liked
+    return Like.objects.filter(
+           ^^^^
+NameError: name 'Like' is not defined
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 500 177043
+Internal Server Error: /api/posts/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 768, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 686, in to_representation
+    return [
+           ^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 37, in to_representation
+    data = super().to_representation(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 522, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\fields.py", line 1838, in to_representation
+    return method(value)
+           ^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 52, in get_is_liked
+    return Like.objects.filter(
+           ^^^^
+NameError: name 'Like' is not defined
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 500 177043
+Internal Server Error: /api/posts/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 768, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 686, in to_representation
+    return [
+           ^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 37, in to_representation
+    data = super().to_representation(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 522, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\fields.py", line 1838, in to_representation
+    return method(value)
+           ^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 52, in get_is_liked
+    return Like.objects.filter(
+           ^^^^
+NameError: name 'Like' is not defined
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 500 177043
+Internal Server Error: /api/posts/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 768, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 686, in to_representation
+    return [
+           ^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 37, in to_representation
+    data = super().to_representation(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 522, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\fields.py", line 1838, in to_representation
+    return method(value)
+           ^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 52, in get_is_liked
+    return Like.objects.filter(
+           ^^^^
+NameError: name 'Like' is not defined
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 500 177043
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+Internal Server Error: /api/posts/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 768, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 686, in to_representation
+    return [
+           ^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 37, in to_representation
+    data = super().to_representation(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 522, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\fields.py", line 1838, in to_representation
+    return method(value)
+           ^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 52, in get_is_liked
+    return Like.objects.filter(
+           ^^^^
+NameError: name 'Like' is not defined
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 500 177043
+Internal Server Error: /api/posts/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 768, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 686, in to_representation
+    return [
+           ^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 37, in to_representation
+    data = super().to_representation(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 522, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\fields.py", line 1838, in to_representation
+    return method(value)
+           ^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 52, in get_is_liked
+    return Like.objects.filter(
+           ^^^^
+NameError: name 'Like' is not defined
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 500 177043
+Watching for file changes with StatReloader
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+Invalid HTTP_HOST header: 'testserver'. You may need to add 'testserver' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'testserver'. You may need to add 'testserver' to ALLOWED_HOSTS.
+Bad Request: /api/posts/posts/
+Invalid HTTP_HOST header: 'testserver'. You may need to add 'testserver' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'testserver'. You may need to add 'testserver' to ALLOWED_HOSTS.
+Bad Request: /api/posts/posts/
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /media/avatars/Screenshot_2025-07-07_105435_MI4ZQz3.jpg HTTP/1.1" 304 0
+Internal Server Error: /api/posts/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 768, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 686, in to_representation
+    return [
+           ^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 37, in to_representation
+    data = super().to_representation(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 522, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\fields.py", line 1838, in to_representation
+    return method(value)
+           ^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 52, in get_is_liked
+    return Like.objects.filter(
+           ^^^^
+NameError: name 'Like' is not defined
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 500 177043
+Internal Server Error: /api/posts/posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 768, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 686, in to_representation
+    return [
+           ^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 37, in to_representation
+    data = super().to_representation(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 522, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\fields.py", line 1838, in to_representation
+    return method(value)
+           ^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\serializers.py", line 52, in get_is_liked
+    return Like.objects.filter(
+           ^^^^
+NameError: name 'Like' is not defined
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 500 177043
+Watching for file changes with StatReloader
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /media/avatars/Screenshot_2025-07-07_105435_MI4ZQz3.jpg HTTP/1.1" 304 0
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+"OPTIONS /api/posts/posts/19/like/ HTTP/1.1" 200 0
+Internal Server Error: /api/posts/posts/19/like/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\views.py", line 92, in like
+    like, created = Like.objects.get_or_create(
+                    ^^^^
+NameError: name 'Like' is not defined
+"POST /api/posts/posts/19/like/ HTTP/1.1" 500 100168
+"GET /api/posts/posts/19/ HTTP/1.1" 200 1035
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+"OPTIONS /api/posts/posts/19/bookmark/ HTTP/1.1" 200 0
+"POST /api/posts/posts/19/bookmark/ HTTP/1.1" 200 43
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/5/followers/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 52
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6162
+Forbidden: /api/posts/posts/19/like/
+"POST /api/posts/posts/19/like/ HTTP/1.1" 403 34
+Internal Server Error: /api/posts/posts/19/like/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\views.py", line 92, in like
+    like, created = Like.objects.get_or_create(
+                    ^^^^
+NameError: name 'Like' is not defined
+"POST /api/posts/posts/19/like/ HTTP/1.1" 500 98286
+D:\miko\backend\apps\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/posts/posts/19/like/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\db\models\query.py", line 916, in get_or_create
+    return self.get(**kwargs), False
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\db\models\query.py", line 637, in get
+    raise self.model.DoesNotExist(
+apps.likes.models.Like.DoesNotExist: Like matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\posts\views.py", line 93, in like
+    like, created = Like.objects.get_or_create(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\db\models\query.py", line 923, in get_or_create
+    return self.create(**params), True
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\db\models\query.py", line 656, in create
+    obj = self.model(**kwargs)
+          ^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\db\models\base.py", line 564, in __init__
+    _setattr(self, prop, value)
+  File "D:\miko\backend\venv\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 626, in __set__
+    raise TypeError(
+TypeError: Direct assignment to the reverse side of a related set is prohibited. Use post.set() instead.
+"POST /api/posts/posts/19/like/ HTTP/1.1" 500 130996
+D:\miko\backend\apps\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/posts/posts/19/like/ HTTP/1.1" 200 34
+"POST /api/posts/posts/19/like/ HTTP/1.1" 200 36
+D:\miko\backend\apps\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\users\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/users/bookmarked-posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+                                    ^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\users\views.py", line 267, in get_queryset
+    bookmarked_post_ids = PostBookmark.objects.filter(
+                          ^^^^^^^^^^^^
+NameError: name 'PostBookmark' is not defined
+"GET /api/users/bookmarked-posts/ HTTP/1.1" 500 105620
+D:\miko\backend\apps\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/users/bookmarked-posts/
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+                                    ^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\apps\users\views.py", line 267, in get_queryset
+    bookmarked_post_ids = PostBookmark.objects.filter(
+                          ^^^^^^^^^^^^
+NameError: name 'PostBookmark' is not defined
+"GET /api/users/bookmarked-posts/ HTTP/1.1" 500 105620
+D:\miko\backend\apps\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/users/bookmarked-posts/ HTTP/1.1" 200 52
+D:\miko\backend\apps\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6162
+"GET /media/avatars/Screenshot_2025-07-07_105435_MI4ZQz3.jpg HTTP/1.1" 304 0
+"POST /api/posts/posts/19/like/ HTTP/1.1" 200 34
+"POST /api/posts/posts/19/bookmark/ HTTP/1.1" 200 45
+"OPTIONS /api/users/bookmarked-posts/?page=1 HTTP/1.1" 200 0
+"GET /api/users/bookmarked-posts/?page=1 HTTP/1.1" 200 52
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6162
+"POST /api/posts/posts/19/bookmark/ HTTP/1.1" 200 43
+"GET /api/users/bookmarked-posts/?page=1 HTTP/1.1" 200 1085
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6161
+"POST /api/posts/posts/19/like/ HTTP/1.1" 200 36
+"POST /api/posts/posts/19/bookmark/ HTTP/1.1" 200 45
+"GET /api/users/bookmarked-posts/?page=1 HTTP/1.1" 200 52
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+"POST /api/posts/posts/19/like/ HTTP/1.1" 200 34
+"POST /api/posts/posts/19/bookmark/ HTTP/1.1" 200 43
+"GET /media/avatars/Screenshot_2025-07-07_105435_MI4ZQz3.jpg HTTP/1.1" 304 0
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6161
+"POST /api/posts/posts/19/like/ HTTP/1.1" 200 36
+"POST /api/posts/posts/19/bookmark/ HTTP/1.1" 200 45
+"POST /api/posts/posts/19/bookmark/ HTTP/1.1" 200 43
+"GET /api/users/bookmarked-posts/?page=1 HTTP/1.1" 200 1086
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6162
+"OPTIONS /api/posts/posts/18/bookmark/ HTTP/1.1" 200 0
+"POST /api/posts/posts/18/bookmark/ HTTP/1.1" 200 43
+"GET /api/users/bookmarked-posts/?page=1 HTTP/1.1" 200 2109
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6161
+"POST /api/posts/posts/19/bookmark/ HTTP/1.1" 200 45
+"POST /api/posts/posts/18/bookmark/ HTTP/1.1" 200 45
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 52
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+"POST /api/posts/posts/19/like/ HTTP/1.1" 200 34
+"OPTIONS /api/posts/posts/18/like/ HTTP/1.1" 200 0
+"POST /api/posts/posts/18/like/ HTTP/1.1" 200 34
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 2109
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6161
+"GET /api/posts/posts/19/ HTTP/1.1" 200 1034
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6161
+"POST /api/posts/posts/19/like/ HTTP/1.1" 200 36
+"POST /api/posts/posts/18/like/ HTTP/1.1" 200 36
+"GET /api/posts/posts/19/ HTTP/1.1" 200 1035
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+D:\miko\backend\apps\posts\models.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 52
+"POST /api/posts/posts/19/comments/ HTTP/1.1" 201 36
+D:\miko\backend\apps\posts\models.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/placeholder/40/40
+"GET /api/placeholder/40/40 HTTP/1.1" 404 3053
+"GET /api/users/bookmarked-posts/?page=1 HTTP/1.1" 200 52
+Not Found: /api/placeholder/40/40
+"GET /api/placeholder/40/40 HTTP/1.1" 404 3053
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+"GET /api/posts/posts/19/ HTTP/1.1" 200 1035
+"OPTIONS /api/posts/posts/19/comments/ HTTP/1.1" 200 0
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 768
+"POST /api/posts/posts/19/comments/ HTTP/1.1" 201 29
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 1515
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+"GET /api/posts/posts/19/ HTTP/1.1" 200 1035
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 1515
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+"OPTIONS /api/posts/posts/?ordering=-likes_count HTTP/1.1" 200 0
+"GET /api/posts/posts/?ordering=-likes_count HTTP/1.1" 200 6163
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+"GET /api/posts/posts/?ordering=-likes_count HTTP/1.1" 200 6163
+"OPTIONS /api/posts/posts/?ordering=-views_count HTTP/1.1" 200 0
+"GET /api/posts/posts/?ordering=-views_count HTTP/1.1" 200 6163
+"GET /api/posts/posts/?ordering=-likes_count HTTP/1.1" 200 6163
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+"GET /api/posts/posts/?ordering=-likes_count HTTP/1.1" 200 6163
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+"GET /api/posts/posts/?ordering=-likes_count HTTP/1.1" 200 6163
+"GET /api/posts/posts/?ordering=-views_count HTTP/1.1" 200 6163
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+"GET /api/posts/posts/?ordering=-views_count HTTP/1.1" 200 6163
+"GET /api/posts/posts/?ordering=-likes_count HTTP/1.1" 200 6163
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+"GET /api/posts/posts/?ordering=-likes_count HTTP/1.1" 200 6163
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+"GET /api/posts/posts/?ordering=-likes_count HTTP/1.1" 200 6163
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+"GET /api/posts/posts/?ordering=-likes_count HTTP/1.1" 200 6163
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+D:\miko\backend\apps\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+Invalid HTTP_HOST header: 'testserver'. You may need to add 'testserver' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'testserver'. You may need to add 'testserver' to ALLOWED_HOSTS.
+Bad Request: /api/posts/posts/19/comments/
+Invalid HTTP_HOST header: 'testserver'. You may need to add 'testserver' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\miko\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\miko\backend\venv\Lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'testserver'. You may need to add 'testserver' to ALLOWED_HOSTS.
+Bad Request: /api/posts/posts/19/comments/
+D:\miko\backend\apps\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/posts/posts/19/ HTTP/1.1" 200 1035
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 5911
+"POST /api/posts/posts/19/comments/ HTTP/1.1" 201 31
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 6660
+"POST /api/posts/posts/19/comments/ HTTP/1.1" 201 27
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 7405
+"OPTIONS /api/posts/comments/10/like/ HTTP/1.1" 200 0
+"POST /api/posts/comments/10/like/ HTTP/1.1" 200 34
+D:\miko\backend\apps\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 7404
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 7404
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/posts/posts/19/comments/ HTTP/1.1" 201 26
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 7786
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6163
+"OPTIONS /api/posts/posts/16/like/ HTTP/1.1" 200 0
+"POST /api/posts/posts/16/like/ HTTP/1.1" 200 34
+"GET /api/users/bookmarked-posts/?page=1 HTTP/1.1" 200 52
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6162
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6162
+"OPTIONS /api/users/5/ HTTP/1.1" 200 0
+"OPTIONS /api/users/5/posts/?page=1 HTTP/1.1" 200 0
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 1083
+"GET /api/users/5/followers/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 1083
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 1083
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/followers/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/followers/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/followers/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/followers/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/followers/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/followers/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/followers/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/followers/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 52
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6162
+"GET /api/posts/posts/19/ HTTP/1.1" 200 1035
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 7786
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6162
+"GET /api/posts/posts/?ordering=-views_count HTTP/1.1" 200 6162
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6162
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/5/followers/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 1083
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 1083
+"GET /api/users/5/followers/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/followers/?page=1 HTTP/1.1" 200 52
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6162
+"GET /api/posts/posts/?ordering=-likes_count HTTP/1.1" 200 6162
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6162
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 548
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\users\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\users\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /media/avatars/Screenshot_2025-07-07_105435_MI4ZQz3.jpg HTTP/1.1" 304 0
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6162
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6162
+"GET /api/posts/posts/19/ HTTP/1.1" 200 1035
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 7786
+"POST /api/posts/posts/19/comments/ HTTP/1.1" 201 27
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 7786
+"POST /api/posts/posts/19/comments/ HTTP/1.1" 201 26
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 7786
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"OPTIONS /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 0
+"GET /media/avatars/Screenshot_2025-07-07_105435_MI4ZQz3.jpg HTTP/1.1" 304 0
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6162
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"OPTIONS /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 0
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 1083
+"OPTIONS /api/users/5/followers/?page=1 HTTP/1.1" 200 0
+"GET /api/users/5/followers/?page=1 HTTP/1.1" 200 52
+"OPTIONS /api/users/5/following/?page=1 HTTP/1.1" 200 0
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 1083
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6162
+"GET /api/posts/posts/19/ HTTP/1.1" 200 1035
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 7786
+"POST /api/posts/posts/19/comments/ HTTP/1.1" 201 27
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 7786
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6162
+"POST /api/posts/posts/19/like/ HTTP/1.1" 200 34
+"POST /api/posts/posts/19/bookmark/ HTTP/1.1" 200 43
+"GET /api/users/bookmarked-posts/?page=1 HTTP/1.1" 200 1085
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6160
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 2117
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 2117
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 2117
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 2117
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 2117
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 2117
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6160
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6160
+"GET /api/posts/posts/19/ HTTP/1.1" 200 1033
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 7786
+"POST /api/posts/posts/19/comments/ HTTP/1.1" 201 26
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 7786
+"POST /api/posts/posts/19/comments/ HTTP/1.1" 201 28
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 7786
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/posts/posts/1/comments/
+"GET /api/posts/posts/1/comments/ HTTP/1.1" 404 25
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 14114
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 14114
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 14114
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 14114
+"GET /api/posts/posts/19/ HTTP/1.1" 200 1033
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 14114
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/posts/posts/19/comments/ HTTP/1.1" 201 26
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 14825
+"POST /api/posts/posts/19/comments/ HTTP/1.1" 201 27
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 15537
+"POST /api/posts/posts/19/comments/ HTTP/1.1" 201 27
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 16249
+"POST /api/posts/posts/19/comments/ HTTP/1.1" 201 27
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 16961
+"POST /api/posts/posts/19/comments/ HTTP/1.1" 201 27
+"GET /api/posts/posts/19/comments/ HTTP/1.1" 200 17673
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6160
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6160
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6160
+"OPTIONS /api/users/8/ HTTP/1.1" 200 0
+"OPTIONS /api/users/8/posts/?page=1 HTTP/1.1" 200 0
+"GET /api/users/8/ HTTP/1.1" 200 518
+"GET /api/users/8/posts/?page=1 HTTP/1.1" 200 2117
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"OPTIONS /api/users/follows/follow/ HTTP/1.1" 200 0
+"POST /api/users/follows/follow/ HTTP/1.1" 201 26
+"GET /api/users/8/ HTTP/1.1" 200 517
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 600
+"GET /api/users/5/followers/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 600
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6158
+"OPTIONS /api/users/7/posts/?page=1 HTTP/1.1" 200 0
+"OPTIONS /api/users/7/ HTTP/1.1" 200 0
+"GET /api/users/7/ HTTP/1.1" 200 518
+"GET /api/users/7/posts/?page=1 HTTP/1.1" 200 2118
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"POST /api/users/follows/follow/ HTTP/1.1" 201 26
+"GET /api/users/7/ HTTP/1.1" 200 517
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6156
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 1149
+Bad Request: /api/users/follows/follow/
+"POST /api/users/follows/follow/ HTTP/1.1" 400 30
+D:\miko\backend\apps\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/users/5/following/ HTTP/1.1" 200 1089
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 1087
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 1087
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 1087
+D:\miko\backend\apps\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 1087
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6156
+"OPTIONS /api/users/9/ HTTP/1.1" 200 0
+"OPTIONS /api/users/9/posts/?page=1 HTTP/1.1" 200 0
+"GET /api/users/9/posts/?page=1 HTTP/1.1" 200 1089
+"GET /api/users/9/ HTTP/1.1" 200 518
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"POST /api/users/follows/follow/ HTTP/1.1" 201 26
+"GET /api/users/9/ HTTP/1.1" 200 517
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 1605
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6155
+"GET /api/users/8/ HTTP/1.1" 200 517
+"GET /api/users/8/posts/?page=1 HTTP/1.1" 200 2115
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"OPTIONS /api/users/8/followers/?page=1 HTTP/1.1" 200 0
+"GET /api/users/8/followers/?page=1 HTTP/1.1" 200 569
+"OPTIONS /api/users/8/following/?page=1 HTTP/1.1" 200 0
+"GET /api/users/8/following/?page=1 HTTP/1.1" 200 52
+"GET /api/users/8/followers/?page=1 HTTP/1.1" 200 569
+"GET /api/users/8/following/?page=1 HTTP/1.1" 200 52
+"GET /api/users/8/followers/?page=1 HTTP/1.1" 200 569
+"GET /api/users/8/posts/?page=1 HTTP/1.1" 200 2115
+"GET /api/users/8/followers/?page=1 HTTP/1.1" 200 569
+"GET /api/users/8/following/?page=1 HTTP/1.1" 200 52
+"GET /api/users/8/followers/?page=1 HTTP/1.1" 200 569
+D:\miko\backend\apps\posts\models.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/users/8/followers/?page=1 HTTP/1.1" 200 569
+"GET /api/users/8/ HTTP/1.1" 200 517
+"GET /api/users/8/ HTTP/1.1" 200 517
+"GET /api/users/8/followers/?page=1 HTTP/1.1" 200 569
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\apps\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/users/8/ HTTP/1.1" 200 517
+"GET /api/users/8/followers/?page=1 HTTP/1.1" 200 569
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6155
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 1605
+"OPTIONS /api/users/7/following/?page=1 HTTP/1.1" 200 0
+"GET /api/users/7/ HTTP/1.1" 200 517
+"GET /api/users/7/following/?page=1 HTTP/1.1" 200 52
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/7/posts/?page=1 HTTP/1.1" 200 2116
+"OPTIONS /api/messages/conversations/ HTTP/1.1" 200 0
+"GET /api/messages/conversations/ HTTP/1.1" 200 52
+"GET /media/avatars/Screenshot_2025-07-07_105435_MI4ZQz3.jpg HTTP/1.1" 304 0
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6155
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 1605
+"GET /api/users/7/following/?page=1 HTTP/1.1" 200 52
+"GET /api/users/7/ HTTP/1.1" 200 517
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/messages/conversations/ HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 1605
+"GET /api/users/7/following/?page=1 HTTP/1.1" 200 52
+"GET /api/users/7/ HTTP/1.1" 200 517
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/messages/conversations/ HTTP/1.1" 200 52
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/5/followers/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 1605
+"GET /api/users/7/following/?page=1 HTTP/1.1" 200 52
+"GET /api/users/7/ HTTP/1.1" 200 517
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/messages/conversations/ HTTP/1.1" 200 52
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6155
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 1605
+"GET /api/users/7/following/?page=1 HTTP/1.1" 200 52
+"GET /api/users/7/ HTTP/1.1" 200 517
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"OPTIONS /api/messages/start-conversation/ HTTP/1.1" 200 0
+"POST /api/messages/start-conversation/ HTTP/1.1" 201 1763
+"OPTIONS /api/messages/conversations/1/ HTTP/1.1" 200 0
+"OPTIONS /api/messages/conversations/1/messages/ HTTP/1.1" 200 0
+"GET /api/messages/conversations/1/messages/ HTTP/1.1" 200 52
+"GET /api/messages/conversations/1/ HTTP/1.1" 200 1763
+"GET /api/messages/conversations/1/messages/ HTTP/1.1" 200 52
+"POST /api/messages/conversations/1/messages/ HTTP/1.1" 201 17
+"GET /api/messages/conversations/1/messages/ HTTP/1.1" 200 698
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"OPTIONS /api/users/7/followers/?page=1 HTTP/1.1" 200 0
+"GET /api/users/7/followers/?page=1 HTTP/1.1" 200 569
+"GET /api/users/7/posts/?page=1 HTTP/1.1" 200 2116
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6155
+"GET /api/users/bookmarked-posts/?page=1 HTTP/1.1" 200 1084
+"GET /api/messages/conversations/ HTTP/1.1" 200 2415
+"GET /api/messages/conversations/1/messages/ HTTP/1.1" 200 698
+"GET /api/messages/conversations/1/ HTTP/1.1" 200 2363
+"GET /api/messages/conversations/ HTTP/1.1" 200 2415
+"GET /media/avatars/Screenshot_2025-07-07_105435_MI4ZQz3.jpg HTTP/1.1" 304 0
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6155
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 2115
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 1605
+"GET /api/users/5/followers/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6155
+"GET /api/messages/conversations/ HTTP/1.1" 200 2415
+"OPTIONS /api/users/bookmarked-posts/?page=1 HTTP/1.1" 200 0
+"GET /api/users/bookmarked-posts/?page=1 HTTP/1.1" 200 1084
+"GET /api/messages/conversations/ HTTP/1.1" 200 2415
+"GET /api/users/bookmarked-posts/?page=1 HTTP/1.1" 200 1084
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6155
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"GET /api/users/5/followers/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 1605
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 2115
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/liked-posts/?page=1 HTTP/1.1" 200 2115
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6155
+"GET /api/posts/posts/?ordering=-likes_count HTTP/1.1" 200 6155
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6155
+"GET /api/posts/posts/?ordering=-likes_count HTTP/1.1" 200 6155
+"GET /api/posts/posts/?ordering=-views_count HTTP/1.1" 200 6155
+"GET /api/posts/posts/?ordering=-likes_count HTTP/1.1" 200 6155
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6155
