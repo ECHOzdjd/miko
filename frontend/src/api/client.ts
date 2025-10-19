@@ -43,7 +43,7 @@ apiClient.interceptors.response.use(
 );
 
 // 媒体文件 URL 辅助函数
-export const getMediaUrl = (path: string) => {
+export const getMediaUrl = (path: string | undefined | null) => {
   if (!path) return '';
   if (path.startsWith('http')) return path;
   return `${MEDIA_BASE_URL}${path}`;

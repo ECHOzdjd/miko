@@ -41,7 +41,14 @@ class PostSerializer(serializers.ModelSerializer):
         if 'images' in data and data['images']:
             request = self.context.get('request')
             if request:
-                data['images'] = [request.build_absolute_uri(url) for url in data['images']]
+                # 只处理相对路径的URL，已经是完整URL的保持不变
+                processed_images = []
+                for url in data['images']:
+                    if url and not url.startswith('http'):
+                        processed_images.append(request.build_absolute_uri(url))
+                    elif url:
+                        processed_images.append(url)
+                data['images'] = processed_images
         
         return data
 

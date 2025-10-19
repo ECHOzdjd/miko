@@ -223,14 +223,16 @@ LOGGING = {
 if os.environ.get('DJANGO_ENV') == 'production':
     DEBUG = False
     
-    # 生产环境允许的主机
+    # 生产环境允许的主机 - 更宽松的配置
     ALLOWED_HOSTS = [
-        '*.onrender.com',  # Render 域名
-        'miko-backend-cl3w.onrender.com',  # 具体域名
-        '*.railway.app',  # Railway 域名
+        '*',  # 临时允许所有主机用于调试
+        '*.onrender.com',
+        'miko-backend-cl3w.onrender.com',
+        '*.railway.app',
         'your-app-name.herokuapp.com',
         'localhost',
-        '127.0.0.1'
+        '127.0.0.1',
+        '0.0.0.0'
     ]
     
     # 生产环境数据库配置（优先使用 DATABASE_URL）
@@ -268,6 +270,10 @@ if os.environ.get('DJANGO_ENV') == 'production':
     
     # 配置 whitenoise
     STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+    
+    # 配置 whitenoise 不处理媒体文件
+    WHITENOISE_USE_FINDERS = True
+    WHITENOISE_AUTOREFRESH = True
     
     # 安全设置
     SECURE_BROWSER_XSS_FILTER = True

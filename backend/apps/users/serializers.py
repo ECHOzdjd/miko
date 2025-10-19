@@ -97,10 +97,17 @@ class UserSerializer(serializers.ModelSerializer):
     def get_avatar_url(self, obj):
         request = self.context.get('request')
         if obj.avatar:
-            if request:
-                return request.build_absolute_uri(obj.avatar.url)
-            return obj.avatar.url
-        # 当没有头像时，返回Gravatar URL
+            try:
+                # 检查文件是否存在
+                if obj.avatar and hasattr(obj.avatar, 'url') and obj.avatar.url:
+                    if request:
+                        return request.build_absolute_uri(obj.avatar.url)
+                    return obj.avatar.url
+            except (ValueError, AttributeError):
+                # 如果头像文件不存在或有问题，使用默认头像
+                pass
+        
+        # 当没有头像或头像文件不存在时，返回Gravatar URL
         import hashlib
         email_hash = hashlib.md5(obj.email.lower().encode()).hexdigest()
         return f'https://www.gravatar.com/avatar/{email_hash}?d=identicon&s=200'
