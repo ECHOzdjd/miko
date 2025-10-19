@@ -7,6 +7,7 @@ import { Post } from '../types/post';
 import { useAuthStore } from '../stores/authStore';
 import CommentList from '../components/Comment/CommentList';
 import toast from 'react-hot-toast';
+import { getMediaUrl } from '../api/client';
 
 const PostDetail: React.FC = () => {
   const { postId } = useParams<{ postId: string }>();
@@ -236,7 +237,7 @@ const PostDetail: React.FC = () => {
             <div className="flex items-center space-x-3">
               <Link to={`/profile/${localPost.author.id}`}>
                 <img
-                  src={localPost.author.avatar_url || '/default-avatar.svg'}
+                  src={getMediaUrl(localPost.author.avatar_url) || '/default-avatar.svg'}
                   alt={localPost.author.nickname}
                   className="w-12 h-12 rounded-full hover:opacity-80 transition-opacity cursor-pointer"
                 />
@@ -298,7 +299,7 @@ const PostDetail: React.FC = () => {
                   onClick={() => handleImageClick(index)}
                 >
                   <img
-                    src={imageUrl}
+                    src={getMediaUrl(imageUrl)}
                     alt={`图片 ${index + 1}`}
                     className="w-full h-48 object-cover rounded-lg hover:opacity-90 transition-opacity"
                   />
@@ -358,7 +359,7 @@ const PostDetail: React.FC = () => {
             </button>
             
             <img
-              src={localPost.images[selectedImageIndex]}
+              src={getMediaUrl(localPost.images[selectedImageIndex])}
               alt={`图片 ${selectedImageIndex + 1}`}
               className="max-w-full max-h-full object-contain"
             />

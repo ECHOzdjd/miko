@@ -5,6 +5,7 @@ import { Post } from '../../types/post';
 import { postsApi } from '../../api/posts';
 import { useQueryClient } from 'react-query';
 import toast from 'react-hot-toast';
+import { getMediaUrl } from '../../api/client';
 
 interface PostCardProps {
   post: Post;
@@ -164,7 +165,7 @@ const PostCard: React.FC<PostCardProps> = ({ post, onLike, onBookmark }) => {
         <div className="flex items-center space-x-3">
           <Link to={`/profile/${localPost.author.id}`}>
             <img
-              src={localPost.author.avatar_url}
+              src={getMediaUrl(localPost.author.avatar_url)}
               alt={localPost.author.nickname}
               className="w-10 h-10 rounded-full hover:opacity-80 transition-opacity cursor-pointer"
             />
@@ -210,7 +211,7 @@ const PostCard: React.FC<PostCardProps> = ({ post, onLike, onBookmark }) => {
               {localPost.images.slice(0, 6).map((imageUrl, index) => (
                 <img
                   key={index}
-                  src={imageUrl}
+                  src={getMediaUrl(imageUrl)}
                   alt={`图片 ${index + 1}`}
                   className="w-full h-32 object-cover rounded-lg"
                 />

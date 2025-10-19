@@ -257,7 +257,17 @@ if os.environ.get('DJANGO_ENV') == 'production':
             }
         }
     
-    # 静态文件和媒体文件配置已在上面定义
+    # 生产环境静态文件和媒体文件配置
+    STATIC_URL = '/static/'
+    STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+    MEDIA_URL = '/media/'
+    MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+    
+    # 添加 whitenoise 中间件用于静态文件服务
+    MIDDLEWARE.insert(1, 'whitenoise.middleware.WhiteNoiseMiddleware')
+    
+    # 配置 whitenoise
+    STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
     
     # 安全设置
     SECURE_BROWSER_XSS_FILTER = True
@@ -269,6 +279,10 @@ if os.environ.get('DJANGO_ENV') == 'production':
         "https://miko-qvbo.vercel.app",
         "http://localhost:3000",
     ]
+    
+    # 允许媒体文件跨域访问
+    CORS_ALLOW_CREDENTIALS = True
+    CORS_ALLOW_ALL_ORIGINS = False
 
 # 开发环境使用SQLite
 else:

@@ -2,6 +2,7 @@ import axios from 'axios';
 import { useAuthStore } from '../stores/authStore';
 
 const API_BASE_URL = process.env.REACT_APP_API_URL || 'https://miko-backend-cl3w.onrender.com/api';
+const MEDIA_BASE_URL = process.env.REACT_APP_MEDIA_URL || 'https://miko-backend-cl3w.onrender.com';
 
 // 创建axios实例
 const apiClient = axios.create({
@@ -40,5 +41,12 @@ apiClient.interceptors.response.use(
     return Promise.reject(error);
   }
 );
+
+// 媒体文件 URL 辅助函数
+export const getMediaUrl = (path: string) => {
+  if (!path) return '';
+  if (path.startsWith('http')) return path;
+  return `${MEDIA_BASE_URL}${path}`;
+};
 
 export default apiClient;

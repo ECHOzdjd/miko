@@ -12,6 +12,7 @@ import { authApi } from '../api/auth';
 import { postsApi } from '../api/posts';
 import { messagesApi } from '../api/messages';
 import toast from 'react-hot-toast';
+import { getMediaUrl } from '../api/client';
 
 interface ProfileForm {
   nickname: string;
@@ -288,7 +289,7 @@ const Profile: React.FC = () => {
                         {post.images.slice(0, 3).map((imageUrl: string, index: number) => (
                           <img
                             key={index}
-                            src={imageUrl}
+                            src={getMediaUrl(imageUrl)}
                             alt={`图片 ${index + 1}`}
                             className="w-full h-20 object-cover rounded"
                           />
@@ -364,7 +365,7 @@ const Profile: React.FC = () => {
                         {post.images.slice(0, 3).map((imageUrl: string, index: number) => (
                           <img
                             key={index}
-                            src={imageUrl}
+                            src={getMediaUrl(imageUrl)}
                             alt={`图片 ${index + 1}`}
                             className="w-full h-20 object-cover rounded"
                           />
@@ -413,7 +414,7 @@ const Profile: React.FC = () => {
                 <div className="flex items-center space-x-3">
                   <Link to={`/profile/${followUser.id}`}>
                     <img
-                      src={followUser.avatar_url}
+                      src={getMediaUrl(followUser.avatar_url)}
                       alt={followUser.nickname}
                       className="w-12 h-12 rounded-full hover:opacity-80 transition-opacity cursor-pointer"
                     />
@@ -464,7 +465,7 @@ const Profile: React.FC = () => {
                 <div className="flex items-center space-x-3">
                   <Link to={`/profile/${follower.id}`}>
                     <img
-                      src={follower.avatar_url}
+                      src={getMediaUrl(follower.avatar_url)}
                       alt={follower.nickname}
                       className="w-12 h-12 rounded-full hover:opacity-80 transition-opacity cursor-pointer"
                     />
@@ -557,7 +558,7 @@ const Profile: React.FC = () => {
           <div className="flex flex-col sm:flex-row sm:items-end sm:space-x-6 -mt-16 relative">
             <div className="relative">
               <img
-                src={avatarPreview || profileUser?.avatar_url || '/default-avatar.svg'}
+                src={avatarPreview || getMediaUrl(profileUser?.avatar_url) || '/default-avatar.svg'}
                 alt={profileUser?.nickname || '用户'}
                 className="w-32 h-32 rounded-full border-4 border-white shadow-lg"
                 onError={(e) => {

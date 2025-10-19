@@ -4,6 +4,7 @@ import { useQuery } from 'react-query';
 import { MessageSquare, Clock } from 'lucide-react';
 import { messagesApi, Conversation } from '../api/messages';
 import { useAuthStore } from '../stores/authStore';
+import { getMediaUrl } from '../api/client';
 
 const Conversations: React.FC = () => {
   const { user } = useAuthStore();
@@ -64,7 +65,7 @@ const Conversations: React.FC = () => {
                 <div className="flex items-center space-x-4">
                   <div className="relative">
                     <img
-                      src={conversation.other_participant?.avatar_url || '/default-avatar.svg'}
+                      src={getMediaUrl(conversation.other_participant?.avatar_url) || '/default-avatar.svg'}
                       alt={conversation.other_participant?.nickname}
                       className="w-12 h-12 rounded-full"
                     />

@@ -5,6 +5,7 @@ import { Send, ArrowLeft, MoreVertical } from 'lucide-react';
 import { messagesApi, Message } from '../api/messages';
 import { useAuthStore } from '../stores/authStore';
 import toast from 'react-hot-toast';
+import { getMediaUrl } from '../api/client';
 
 const Chat: React.FC = () => {
   const { conversationId } = useParams<{ conversationId: string }>();
@@ -121,7 +122,7 @@ const Chat: React.FC = () => {
             <ArrowLeft className="w-5 h-5" />
           </button>
           <img
-            src={otherUser?.avatar_url || '/default-avatar.svg'}
+            src={getMediaUrl(otherUser?.avatar_url) || '/default-avatar.svg'}
             alt={otherUser?.nickname}
             className="w-10 h-10 rounded-full"
           />

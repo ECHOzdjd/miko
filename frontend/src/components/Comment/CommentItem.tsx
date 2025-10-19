@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { Reply, MoreHorizontal, Trash2 } from 'lucide-react';
 import { Comment } from '../../types/comment';
 import { useAuthStore } from '../../stores/authStore';
+import { getMediaUrl } from '../../api/client';
 
 interface CommentItemProps {
   comment: Comment;
@@ -52,7 +53,7 @@ const CommentItem: React.FC<CommentItemProps> = ({
       <div className="flex space-x-3 py-4">
         <Link to={`/profile/${comment.author.id}`}>
           <img
-            src={comment.author.avatar_url || '/default-avatar.svg'}
+            src={getMediaUrl(comment.author.avatar_url) || '/default-avatar.svg'}
             alt={comment.author.nickname}
             className="w-8 h-8 rounded-full flex-shrink-0 hover:opacity-80 transition-opacity cursor-pointer"
           />

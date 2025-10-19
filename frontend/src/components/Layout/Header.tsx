@@ -3,6 +3,7 @@ import { Link, useNavigate } from 'react-router-dom';
 import { Plus, User, LogOut } from 'lucide-react';
 import { useAuthStore } from '../../stores/authStore';
 import { useAuth } from '../../hooks/useAuth';
+import { getMediaUrl } from '../../api/client';
 
 const Header: React.FC = () => {
   const { user, isAuthenticated } = useAuthStore();
@@ -47,7 +48,7 @@ const Header: React.FC = () => {
                 <div className="relative group">
                   <button className="flex items-center space-x-2 p-2 hover:bg-gray-100 rounded-full">
                     <img
-                      src={user?.avatar_url || '/default-avatar.svg'}
+                      src={getMediaUrl(user?.avatar_url) || '/default-avatar.svg'}
                       alt={user?.nickname}
                       className="w-8 h-8 rounded-full"
                     />
