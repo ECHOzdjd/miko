@@ -33,10 +33,6 @@ THIRD_PARTY_APPS = [
     'rest_framework.authtoken',  # 添加Token认证支持
     'corsheaders',
     'django_filters',
-    'allauth',
-    'allauth.account',
-    'taggit',
-    'channels',
     'imagekit',
 ]
 
@@ -258,24 +254,31 @@ if os.environ.get('DJANGO_ENV') == 'production':
     
     # 生产环境允许的主机
     ALLOWED_HOSTS = [
+        '*.railway.app',  # Railway 域名
         'your-app-name.herokuapp.com',
-        'your-app.railway.app', 
         'your-app.onrender.com',
         'localhost',
         '127.0.0.1'
     ]
     
-    # 生产环境数据库配置（使用环境变量）
-    DATABASES = {
-        'default': {
-            'ENGINE': 'django.db.backends.postgresql',
-            'NAME': os.environ.get('DB_NAME', 'miko_db'),
-            'USER': os.environ.get('DB_USER', 'postgres'),
-            'PASSWORD': os.environ.get('DB_PASSWORD', ''),
-            'HOST': os.environ.get('DB_HOST', 'localhost'),
-            'PORT': os.environ.get('DB_PORT', '5432'),
+    # 生产环境数据库配置（优先使用 DATABASE_URL）
+    if 'DATABASE_URL' in os.environ:
+        import dj_database_url
+        DATABASES = {
+            'default': dj_database_url.parse(os.environ.get('DATABASE_URL'))
         }
-    }
+    else:
+        # 备用数据库配置
+        DATABASES = {
+            'default': {
+                'ENGINE': 'django.db.backends.postgresql',
+                'NAME': os.environ.get('DB_NAME', 'miko_db'),
+                'USER': os.environ.get('DB_USER', 'postgres'),
+                'PASSWORD': os.environ.get('DB_PASSWORD', ''),
+                'HOST': os.environ.get('DB_HOST', 'localhost'),
+                'PORT': os.environ.get('DB_PORT', '5432'),
+            }
+        }
     
     # 静态文件配置
     STATIC_URL = '/static/'

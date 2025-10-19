@@ -1,0 +1,23 @@
+# Fly.io 配置文件
+app = "miko-backend"
+primary_region = "nrt"  # 东京，离中国更近
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  DJANGO_ENV = "production"
+  DEBUG = "False"
+
+[http_service]
+  internal_port = 8000
+  force_https = true
+  auto_stop_machines = true
+  auto_start_machines = true
+  min_machines_running = 0
+  processes = ["app"]
+
+[[vm]]
+  cpu_kind = "shared"
+  cpus = 1
+  memory_mb = 256

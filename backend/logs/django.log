@@ -3008,3 +3008,24 @@ D:\miko\backend\config\settings.py changed, reloading.
 Watching for file changes with StatReloader
 D:\miko\backend\config\settings.py changed, reloading.
 Watching for file changes with StatReloader
+"OPTIONS /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 0
+"GET /media/avatars/Screenshot_2025-07-07_105435_MI4ZQz3.jpg HTTP/1.1" 304 0
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6155
+"OPTIONS /api/users/5/ HTTP/1.1" 200 0
+"OPTIONS /api/users/5/posts/?page=1 HTTP/1.1" 200 0
+"GET /api/users/5/posts/?page=1 HTTP/1.1" 200 52
+"GET /api/users/5/ HTTP/1.1" 200 548
+"GET /static/images/default-background.jpg HTTP/1.1" 404 1947
+"OPTIONS /api/users/5/following/?page=1 HTTP/1.1" 200 0
+"GET /api/users/5/following/?page=1 HTTP/1.1" 200 1605
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6155
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
