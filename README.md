@@ -1,6 +1,8 @@
 # 二次元社区项目 (Miko)
 
 一个基于React + Django的现代化社交平台，专注于核心社交功能，支持用户互动、私信聊天等功能。
+直接访问（需要挂梯子）：https://miko-qvbo.vercel.app/
+
 
 ## 🎯 项目特色
 
@@ -196,31 +198,11 @@ npm start
 - 用户与对话：多对多
 - 对话与消息：一对多
 
-## 🚀 部署指南
-
-### 快速部署
-
-**Windows用户:**
-```bash
-# 双击运行部署脚本
-deploy.bat
-```
-
-**Linux/Mac用户:**
-```bash
-# 设置执行权限并运行
-chmod +x deploy.sh
-./deploy.sh
-```
-
-
-
 ### 详细部署说明
 
 请查看 [DEPLOYMENT.md](DEPLOYMENT.md) 文件获取完整的部署指南。
 
 ---
 
-⭐ 如果这个项目对你有帮助，请给它一个星标！
 
 
