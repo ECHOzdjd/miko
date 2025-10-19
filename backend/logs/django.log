@@ -3086,3 +3086,4 @@ D:\miko\backend\config\urls.py changed, reloading.
 Watching for file changes with StatReloader
 D:\miko\backend\config\urls.py changed, reloading.
 Watching for file changes with StatReloader
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 7639
