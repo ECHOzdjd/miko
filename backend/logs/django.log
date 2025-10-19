@@ -3042,3 +3042,43 @@ Watching for file changes with StatReloader
 "GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6155
 D:\miko\backend\config\urls.py changed, reloading.
 Watching for file changes with StatReloader
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6155
+"GET /api/posts/posts/?ordering=-likes_count HTTP/1.1" 200 6155
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6155
+"OPTIONS /api/posts/posts/16/ HTTP/1.1" 200 0
+"GET /api/posts/posts/16/ HTTP/1.1" 200 1030
+"OPTIONS /api/posts/posts/16/comments/ HTTP/1.1" 200 0
+"GET /api/posts/posts/16/comments/ HTTP/1.1" 200 52
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 6155
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"OPTIONS /api/posts/posts/ HTTP/1.1" 200 0
+"POST /api/posts/posts/ HTTP/1.1" 201 1483
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 7639
+"GET /media/posts/images/Screenshot_2025-07-07_105435_LezJDYt.png HTTP/1.1" 200 51710
+"GET /media/posts/images/Screenshot_2025-06-26_165108_e4l8zsT.png HTTP/1.1" 200 1450473
+"OPTIONS /api/posts/posts/20/ HTTP/1.1" 200 0
+"GET /api/posts/posts/20/ HTTP/1.1" 200 1483
+"OPTIONS /api/posts/posts/20/comments/ HTTP/1.1" 200 0
+"GET /api/posts/posts/20/comments/ HTTP/1.1" 200 52
+"GET /api/posts/posts/?ordering=-created_at HTTP/1.1" 200 7639
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\miko\backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
