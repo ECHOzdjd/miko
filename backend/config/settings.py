@@ -225,9 +225,10 @@ if os.environ.get('DJANGO_ENV') == 'production':
     
     # 生产环境允许的主机
     ALLOWED_HOSTS = [
+        '*.onrender.com',  # Render 域名
+        'miko-backend-cl3w.onrender.com',  # 具体域名
         '*.railway.app',  # Railway 域名
         'your-app-name.herokuapp.com',
-        'your-app.onrender.com',
         'localhost',
         '127.0.0.1'
     ]
@@ -265,7 +266,7 @@ if os.environ.get('DJANGO_ENV') == 'production':
     
     # CORS设置
     CORS_ALLOWED_ORIGINS = [
-        "https://your-frontend.vercel.app",
+        "https://miko-qvbo.vercel.app",
         "http://localhost:3000",
     ]
 
