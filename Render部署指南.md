@@ -59,7 +59,7 @@ DB_PORT=5432
 1. 点击 "Create Web Service"
 2. 等待构建完成（通常5-10分钟）
 3. 记录服务URL（例如：`https://miko-backend.onrender.com`）
-
+https://miko-backend-cl3w.onrender.com
 ## 🔧 部署后配置
 
 ### 1. 创建超级用户

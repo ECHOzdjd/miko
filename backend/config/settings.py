@@ -223,16 +223,14 @@ LOGGING = {
 if os.environ.get('DJANGO_ENV') == 'production':
     DEBUG = False
     
-    # 生产环境允许的主机 - 更宽松的配置
+    # 生产环境允许的主机
     ALLOWED_HOSTS = [
-        '*',  # 临时允许所有主机用于调试
         '*.onrender.com',
         'miko-backend-cl3w.onrender.com',
         '*.railway.app',
         'your-app-name.herokuapp.com',
         'localhost',
-        '127.0.0.1',
-        '0.0.0.0'
+        '127.0.0.1'
     ]
     
     # 生产环境数据库配置（优先使用 DATABASE_URL）

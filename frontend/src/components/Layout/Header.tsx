@@ -9,6 +9,18 @@ const Header: React.FC = () => {
   const { user, isAuthenticated } = useAuthStore();
   const { logout } = useAuth();
   const navigate = useNavigate();
+  
+  // 调试用户信息
+  React.useEffect(() => {
+    if (user) {
+      console.log('Header 用户信息:', {
+        id: user.id,
+        nickname: user.nickname,
+        avatar_url: user.avatar_url,
+        processed_avatar_url: getMediaUrl(user.avatar_url)
+      });
+    }
+  }, [user]);
 
   const handleLogout = async () => {
     try {
@@ -51,6 +63,17 @@ const Header: React.FC = () => {
                       src={getMediaUrl(user?.avatar_url) || '/default-avatar.svg'}
                       alt={user?.nickname}
                       className="w-8 h-8 rounded-full"
+                      onError={(e) => {
+                        console.log('头像加载失败:', {
+                          originalSrc: user?.avatar_url,
+                          processedSrc: getMediaUrl(user?.avatar_url),
+                          fallbackSrc: '/default-avatar.svg'
+                        });
+                        e.currentTarget.src = '/default-avatar.svg';
+                      }}
+                      onLoad={() => {
+                        console.log('头像加载成功:', getMediaUrl(user?.avatar_url));
+                      }}
                     />
                     <span className="hidden sm:inline text-sm font-medium">
                       {user?.nickname}
