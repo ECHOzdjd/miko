@@ -41,55 +41,7 @@ vercel --prod
 
 ## 🐍 后端部署选项
 
-### 选项1: Heroku部署
-
-1. **安装Heroku CLI**
-```bash
-# Windows
-winget install Heroku.HerokuCLI
-
-# 或下载安装包
-# https://devcenter.heroku.com/articles/heroku-cli
-```
-
-2. **创建Heroku应用**
-```bash
-cd backend
-heroku create your-app-name
-```
-
-3. **配置环境变量**
-```bash
-heroku config:set DEBUG=False
-heroku config:set SECRET_KEY=your-secret-key
-heroku config:set ALLOWED_HOSTS=your-app-name.herokuapp.com
-```
-
-4. **部署**
-```bash
-git add .
-git commit -m "Deploy to Heroku"
-git push heroku main
-```
-
-### 选项2: Railway部署
-
-1. **访问Railway**
-   - 访问 https://railway.app
-   - 使用GitHub登录
-
-2. **连接仓库**
-   - 选择你的GitHub仓库
-   - 选择backend目录
-
-3. **配置环境变量**
-```env
-DEBUG=False
-SECRET_KEY=your-secret-key
-ALLOWED_HOSTS=your-app.railway.app
-```
-
-### 选项3: Render部署
+### Render部署
 
 1. **访问Render**
    - 访问 https://render.com
